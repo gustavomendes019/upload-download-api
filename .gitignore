@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+.env
+
+# Arquivos gerados pela API em tempo de execução
+uploads/
+database.db
+uploads.log
