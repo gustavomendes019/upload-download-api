@@ -3,7 +3,7 @@
 API REST feita em **Python + Flask** que permite enviar (upload) e baixar (download) arquivos.
 O projeto segue o padrão **MVC** (rotas → controllers → models) e usa **SQLite** como banco de dados.
 
-🔗 **Link público (Render):** https://upload-download-api-ibhe.onrender.com
+🔗 **Link público (Render):** https://upload-download-api-3f8t.onrender.com
 
 📦 **Repositório:** https://github.com/gustavomendes019/upload-download-api
 
